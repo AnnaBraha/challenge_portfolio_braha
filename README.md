@@ -13,4 +13,10 @@ I decided to participate in the Dare IT Challenge to:
 
 Anna Braha
 
+# Task 2: selectors
 
+select_english_language
+
+- //*[@role="button"]
+- //*[text()="English"]
+- //*[@id="__next"]/form/div/div[2]/div/div
